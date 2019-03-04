@@ -1,0 +1,6 @@
+anime1 = Anime.new(title: "My Hero Academia", description: "In a world where people with superpowers, known as Quirks, are the norm, Izuku Midoriya has dreams of one day becoming a Hero, despite being bullied by his classmates for not having a Quirk. This is his story on how he became the greatest hero.", genre: "Superhero Fiction")
+anime1.save
+anime2 = Anime.new(title: "Death Note", description:"A high school student discovers a supernatural notebook that has deadly powers. He can kill anyone he wishes simply by inscribing their name within its pages. Intoxicated with his new power, he begins to eliminate those he deems unworthy of life.", genre: "Horror, Thriller, Mystery")
+anime2.save
+anime3 = Anime.new(title:"The Promised Neverland", description: "Norman, Emma, and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as Mama, all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn- what more could an orphan ask for? One day, though, Emma and Norman uncover the dark and twisted truth of the outside world they are forbidden from seeing. Soon, they must make haste to plan their escape!", genre: "Dark Fantasy")
+anime3.save
